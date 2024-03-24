@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: csnkarthik/gitops-demo:1
+  repository: csnkarthik/gitops-demo:95
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
